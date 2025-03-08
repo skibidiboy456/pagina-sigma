@@ -1,0 +1,26 @@
+htindex.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>pagina sigma</title>
+</head>
+<body>
+    <h1>la dependencia tecnologica.</h1>
+    <img src="./image copy 2.png" alt="Image 1">
+    <img src="./image copy 3.png" alt="Image 1">
+
+    <h2>que es?.</h2>
+    <p>la dependencia tecnologica es un tipo de adiccion en la que una persona esta muy aferrado a la tecnologia cosa que cuando no pueda usarla por variados motivos tenga un gran aburrimiento, enojo o otros efectos</p>
+    <h2>como saber si tengo dependencia tecnologica?.</h2>
+    <p>si al no tener algun articulo tecnologico te encuentras aburrido, irritable o directamente de mal humor probablemente tienes dependencia tecnologica</p2>
+    <p>     </p2>
+    
+
+
+     <img src="./image copy.png" alt="Image 1">
+     <img src="./image.png" alt="Image 1">
+</body>
+</html>
